@@ -1,0 +1,23 @@
+{
+  "name": "gulp-test",
+  "version": "1.0.0",
+  "description": "要使用 Gulp，要安裝 Node.js，因為 Gulp 是基於 Node.js 開發而成",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobHsu/gulp-test.git"
+  },
+  "author": "Jacob Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobHsu/gulp-test/issues"
+  },
+  "homepage": "https://github.com/JacobHsu/gulp-test#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}

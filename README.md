@@ -38,3 +38,9 @@ gulp.task('default',['webserver']);
 
 建立 app的資料夾，放入網頁，執行 `gulp`  
 `$ gulp`
+
+## Usage
+
+`$ npm install`
+`$ gulp`
+open  http://localhost:1234/  
